@@ -1,2 +1,2 @@
 # MqGo-IDE
-Simple IDE for Go, python and bash, so far in very early beta stage
+Simple IDE for Go, python and bash, currently in very early beta stage
