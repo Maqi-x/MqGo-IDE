@@ -1,0 +1,6 @@
+QPlainTextEdit {
+    background-color: #2b2b2b;
+    color: #ffffff;
+    font-family: 'Jetbrains Mono', monospace;
+    font-size: 14pt;
+}
